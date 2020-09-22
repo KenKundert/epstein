@@ -1,4 +1,4 @@
-Critique of "The Moral Case for Fossil Fuels" by Alex Epstein
+Critique of *The Moral Case for Fossil Fuels* by Alex Epstein
 =============================================================
 
 I tried to read this book when it was recommended by a friend. Reviews on Amazon 
@@ -18,8 +18,8 @@ energy choices and move towards better alternatives with fewer down sides.
 I worry that this book will act to discourage the search for better 
 alternatives.
 
-There is however one more point I will make. After giving up on Chapter 
-1 I skipped ahead to the chapter on global warming and ran into a section where 
+There is however one more point I will make. After giving up on Chapter 1
+I skipped ahead to the chapter on global warming and ran into a section where 
 the author clearly tries to mislead the reader.
 
 
@@ -51,9 +51,12 @@ diminishing effect*".  Here is the text:
 
 As the source of this data Epstein cites the following:
 
-| New estimates of radiative forcing due to well mixed greenhouse gasses.
-| Gunnar Myhre
-| *Geophysical Research Letters*, vol 25, no 14, pp. 2715-2718, July 15, 1998
+|     New estimates of radiative forcing due to well mixed greenhouse gasses.
+|     Gunnar Myhre
+|     *Geophysical Research Letters*, vol 25, no 14, pp. 2715-2718, July 15, 1998
+
+That paper discusses several greenhouse gasses, but it gives the following 
+figure as the primary result for CO₂:
 
 .. figure:: CO2-radiative-forcing.png
     :width: 100%
@@ -61,24 +64,38 @@ As the source of this data Epstein cites the following:
 
     Figure 1: Radiative forcing as a function of concentration of CO₂.
 
-As you can see, these two figures differ.
+As you can see, these two figures differ.  In addition, a careful reading of 
+Myhre's paper uncovers no mention of the greenhouse effect of CO₂ being an 
+"extreme diminishing effect".  What you will find is a mathematical model for 
+the greenhouse effect of CO₂ given in Table 3.  It is:
 
-
-The model is given in Table 3. It is:
-
-    ΔF = α ln(C/C₀)
-    where
-        α = 5.35 (or 6.3)
-        C₀ = 280 (unstated, but can be extracted from the graph)
+|    ΔF = α ln(C/C₀)
+|    where
+|        α = 5.35 (or 6.3)
+|        C₀ = 280 (unstated, but can be extracted from the graph)
 
 There is no evidence that this is a physical model. Indeed it has the look of 
 a fitted model. This implies that it has no predictive value and should not be 
-used outside of the measured range (300 — 1000 PPM).  In fact, it has 
+used outside of the measured range (280 — 1000 PPM).  In fact, it has 
 a non-physical singularity at C = 0 where it predicts infinite cooling.
+This should not be taken as an issue with Myhre's model.  It is very common to 
+create fitted models as it often more convenient to use evaluate a simple 
+formula rather than look up and interpolate values from a table.  However it is 
+important to never use such models outside their valid range and the results are 
+often nonsensical.
 
-The Myhre presents this as an incremental model, ΔF is the change in the 
-radiative forcing given the increase in CO₂ over pre-industrial levels.
-
+Myhre presents this as an incremental model, ΔF is the change in the radiative 
+forcing given the increase in CO₂ over pre-industrial levels.
 Epstein extends the model outside its range to the point were it becomes 
 singular (C = 0), ignores the singularity, and then draws conclusions not 
-supported by the original ideas.
+supported by the original data.  This is a very serious abuse of the model that 
+suggests Epstein does not understand the model, or even modeling in general.  As 
+such, his conclusion is spurious.
+
+It is not surprising the Epstein misinterpreted the model. One cannot be an 
+expert in every field. It is surprising that he did not appear to confirm his 
+conclusion with those that are knowledgeable in the field.  Certainly a quick 
+conversation with Myhre himself would have resolved the issue. The fact that 
+Epstein did not attempt to confirm his novel and rather surprising conclusion 
+leads credence to the idea that this his book is intended to promote 
+a particular world view rather than to inform.
