@@ -50,8 +50,8 @@ diminishing effect*".  Here is the text:
 
         Figure 4.1: The Decelerating, Logarithmic Greenhouse Effect
 
-As the source of this data Epstein cites the following :ref:`paper by Myhre 
-<radiative-forcing-of-greenhouse-gasses.pdf`::
+As the source of this data Epstein cites the following `paper by Myhre 
+<radiative-forcing-of-greenhouse-gasses.pdf`_::
 
     New estimates of radiative forcing due to well mixed greenhouse gasses.
     Gunnar Myhre
