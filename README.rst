@@ -66,10 +66,11 @@ figure as the primary result for CO₂:
 
     Figure 1: Radiative forcing as a function of concentration of CO₂.
 
-As you can see, these two figures differ.  In addition, a careful reading of 
-Myhre's paper uncovers no mention of the greenhouse effect of CO₂ being an 
-"extreme diminishing effect".  What you will find is a mathematical model for 
-the greenhouse effect of CO₂ given in Table 3.  It is::
+As you can see, these two figures differ.  Specifically, the *y*-axis differs 
+and the data and the *x* axis has been extended down to 0. In addition, 
+a careful reading of Myhre's paper uncovers no mention of the greenhouse effect 
+of CO₂ being an "extreme diminishing effect".  What you find instead is 
+a mathematical model for the greenhouse effect of CO₂ given in Table 3.  It is::
 
     ΔF = α ln(C/C₀)
     where
