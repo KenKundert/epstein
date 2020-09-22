@@ -84,16 +84,17 @@ This should not be taken as an issue with Myhre's model.  It is very common to
 create fitted models as it often more convenient to evaluate a simple formula 
 rather than look up and interpolate values from a table.  However it is 
 important to never use such models outside their valid range because the results 
-are often nonsensical.
+are often nonsensical.  Myhre does not do that, nor does he suggest that one 
+should.
 
 Myhre presents this as an incremental model, ΔF is the change in the radiative 
 forcing given the increase in CO₂ over pre-industrial levels.
 Epstein mistakenly interprets the model as one suitable for absolute rather than 
-incremental value. He then extends the model outside its range to the point were 
-it becomes singular (C = 0), ignores the singularity, and then draws conclusions 
-not supported by the original data.  This is a very serious abuse of the model 
-that suggests Epstein does not understand the model, or even modeling in 
-general.  As such, his conclusion is spurious and must be ignored.
+incremental values. He then extends the model outside its range to the point 
+were it becomes singular (C = 0), ignores the singularity, and then draws 
+conclusions not supported by the original data.  This is a very serious abuse of 
+the model that suggests Epstein does not understand the model, or even modeling 
+in general.  As such, his conclusion is spurious and must be ignored.
 
 It is not surprising the Epstein misinterpreted the model. One cannot be an 
 expert in every field. It is surprising that he did not appear to confirm his 
