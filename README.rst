@@ -102,7 +102,8 @@ consequence, but its addition makes the problem seem less worrisome.  Even if
 true, all it says is that without CO₂ in the atmosphere our world would be 
 a frozen ball.  That is not in dispute, nor is it our concern.  The question is 
 what is the effect of increasing atmospheric CO₂ by 50%.  That is not answered 
-by either graph, and so there is no real reason to include this section at all.
+by either graph, and so there is no real reason to include this section in the 
+book at all.
 
 It is not surprising the Epstein misinterpreted the model. One cannot be an 
 expert in every field. It is surprising that he did not appear to confirm his 
