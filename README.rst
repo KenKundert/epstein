@@ -50,11 +50,11 @@ diminishing effect*".  Here is the text:
 
         Figure 4.1: The Decelerating, Logarithmic Greenhouse Effect
 
-As the source of this data Epstein cites the following:
+As the source of this data Epstein cites the following::
 
-|     New estimates of radiative forcing due to well mixed greenhouse gasses.
-|     Gunnar Myhre
-|     *Geophysical Research Letters*, vol 25, no 14, pp. 2715-2718, July 15, 1998
+    New estimates of radiative forcing due to well mixed greenhouse gasses.
+    Gunnar Myhre
+    *Geophysical Research Letters*, vol 25, no 14, pp. 2715-2718, July 15, 1998
 
 That paper discusses several greenhouse gasses, but it gives the following 
 figure as the primary result for CO₂:
@@ -68,12 +68,12 @@ figure as the primary result for CO₂:
 As you can see, these two figures differ.  In addition, a careful reading of 
 Myhre's paper uncovers no mention of the greenhouse effect of CO₂ being an 
 "extreme diminishing effect".  What you will find is a mathematical model for 
-the greenhouse effect of CO₂ given in Table 3.  It is:
+the greenhouse effect of CO₂ given in Table 3.  It is::
 
-|    ΔF = α ln(C/C₀)
-|    where
-|        α = 5.35 (or 6.3)
-|        C₀ = 280 (unstated, but can be extracted from the graph)
+    ΔF = α ln(C/C₀)
+    where
+        α = 5.35 (or 6.3)
+        C₀ = 280 (unstated, but can be extracted from the graph)
 
 There is no evidence that this is a physical model. Indeed it has the look of 
 a fitted model. This implies that it has no predictive value and should not be 
