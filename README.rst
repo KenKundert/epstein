@@ -17,9 +17,11 @@ significant down sides. As such, it is important that we constantly examine our
 energy choices and move towards better alternatives with fewer down sides.  
 I worry that this book acts to discourage the search for better alternatives.
 
-There is however one more point I will make. After giving up on Chapter 1
-I skipped ahead to the chapter on global warming and ran into a section where 
-the author clearly tries to mislead the reader.
+There is however one more point I will make as it seems to call into question 
+the credibility of the book and as far as I can tell has gone otherwise 
+unnoticed.  After giving up on Chapter 1 I skipped ahead to the chapter on 
+global warming and ran into a section where the author clearly misleads the 
+reader.
 
 
 Misleading Section on Greenhouse Effect
