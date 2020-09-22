@@ -6,17 +6,16 @@ were glowing and so I had high expectations. Unfortunately, I was unable to get
 beyond the first chapter. Rather than being informative, I found it to be 
 uncritical promotion of fossil fuels.
 
-I will not go into any depth as to my issues with this book, I will say one 
-thing. The basic premise is that humanity has tremendously benefited from cheap 
-energy from fossil fuels. I have no argument with that as it is obviously true.  
-But the benefit came from the availability of cheap energy. The fact that it was 
-fossil fuels that provided the benefits was largely incidental to the benefit.  
-Had we achieved the cheap energy using solar, wind, or nuclear, the benefit 
-would have been the same. However, there are down sides to fossil fuels; 
+While I will not go into any depth as to my issues with this book, I will say 
+one thing. The basic premise is that humanity has tremendously benefited from 
+cheap energy from fossil fuels. I have no argument with that as it is obviously 
+true.  But the benefit came from the availability of cheap energy. The fact that 
+it was fossil fuels that provided the benefits was largely incidental to the 
+benefit.  Had we achieved the cheap energy using solar, wind, or nuclear, the 
+benefit would have been the same. However, there are down sides to fossil fuels; 
 significant down sides. As such, it is important that we constantly examine our 
 energy choices and move towards better alternatives with fewer down sides.  
-I worry that this book will act to discourage the search for better 
-alternatives.
+I worry that this book acts to discourage the search for better alternatives.
 
 There is however one more point I will make. After giving up on Chapter 1
 I skipped ahead to the chapter on global warming and ran into a section where 
