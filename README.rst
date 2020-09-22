@@ -97,6 +97,13 @@ conclusions not supported by the original data.  This is a very serious abuse of
 the model that suggests Epstein does not understand the model, or even modeling 
 in general.  As such, his conclusion is spurious and must be ignored.
 
+The effect of extending the model to 0 is to mislead. The added data is of no 
+consequence, but its addition makes the problem seem less worrisome.  Even if 
+true, all it says is that without CO₂ in the atmosphere our world would be 
+a frozen ball.  That is not in dispute, nor is it our concern.  The question is 
+what is the effect of increasing atmospheric CO₂ by 50%.  That is not answered 
+by either graph, and so there is no real reason to include this section at all.
+
 It is not surprising the Epstein misinterpreted the model. One cannot be an 
 expert in every field. It is surprising that he did not appear to confirm his 
 conclusion with those that are knowledgeable in the field.  Certainly a quick 
